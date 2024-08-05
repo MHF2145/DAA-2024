@@ -1,0 +1,1 @@
+{"name":"Local: Insertion SOrt","url":"f:\\Coding\\DAA\\Insertion SOrt.cpp","tests":[{"id":1709549637219,"input":"5\n1 2 5 4 3","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\DAA\\Insertion SOrt.cpp","group":"local","local":true}

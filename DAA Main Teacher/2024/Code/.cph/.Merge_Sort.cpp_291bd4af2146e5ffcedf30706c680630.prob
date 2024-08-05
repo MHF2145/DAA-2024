@@ -1,0 +1,1 @@
+{"name":"Local: Merge_Sort","url":"f:\\Coding\\DAA\\Merge_Sort.cpp","tests":[{"id":1709550088918,"input":"5\n1 2 5 4 3","output":"1 2 3 4 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Coding\\DAA\\Merge_Sort.cpp","group":"local","local":true}
